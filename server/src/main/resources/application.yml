@@ -6,10 +6,12 @@ spring:
   application:
     name: autohost-api
   datasource:
-    url: jdbc:mysql://${DB_HOST:localhost}:${DB_PORT:3306}/${DB_NAME:TallerDB2}?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
-    username: ${DB_USER:taller_api_user}
-    password: ${DB_PASSWORD:}
+    url: ${SPRING_DATASOURCE_URL}
+    username: ${SPRING_DATASOURCE_USERNAME}
+    password: ${SPRING_DATASOURCE_PASSWORD}
+    driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
     hibernate:
       ddl-auto: update
       naming:
