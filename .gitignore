@@ -1,0 +1,16 @@
+node_modules/
+target/
+dist/
+.env
+.env.*
+!.env.example
+!.env.docker.example
+!**/.env.example
+!**/.env.docker.example
+.env.docker
+server/logs/*.log
+server/uploads/workshops/*
+!server/uploads/workshops/.gitkeep
+server/uploads/vehicles/*
+!server/uploads/vehicles/.gitkeep
+server/sepomex.json

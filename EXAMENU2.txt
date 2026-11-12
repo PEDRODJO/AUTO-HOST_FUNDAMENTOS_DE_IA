@@ -1,0 +1,134 @@
+----------------------------------------------------------------------- EXAMEN DE BASE DE DATOS EN LA NUBE -------------------------------------------------------------------------------
+EVALUACION PRACTICA U2
+
+PARTE II:
+---------------------- crear la base de datos: 
+-test> use cafeteriaUT
+ 
+ ---------------------- preparación de los 5 documentos:
+
+-cafeteriaUT> db.pedidos.insertMany([{folio:1,cliente:"Juan",producto:"Papas",total:15,estado:"Pendiente"},{folio:2,cliente:"Pepe",producto:"Torta",total:180,estado:"Pendiente"},{folio:3,cliente:"Miguel",producto:"Coca",total:190,estado:"preparacion"},{folio:4,cliente:"Diego",producto:"Totis",total:89,estado:"Entregado"},{folio:1,cliente:"Pedro",producto:"Dorilocos",total:50,estado:"Entregado"}])
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId('6af4fc86acb89dea6aac3362'),
+    '1': ObjectId('6af4fc86acb89dea6aac3363'),
+    '2': ObjectId('6af4fc86acb89dea6aac3364'),
+    '3': ObjectId('6af4fc86acb89dea6aac3365'),
+    '4': ObjectId('6af4fc86acb89dea6aac3366')
+  }
+}
+cafeteriaUT>
+
+
+--- EJERCICIO 1 :
+acualizar:
+db.pedidos.updateMany({estado:"Pendiente"},{$set:{estado:"En preparacion"}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 2,
+  modifiedCount: 2,
+  upsertedCount: 0
+}
+
+
+--- EJERCICIO 2:
+consulta:
+cafeteriaUT> db.pedidos.find({ total: { $gt: 150 } },{_id:0,cliente:1,producto:1,total:1})
+[
+  { cliente: 'Pepe', producto: 'Torta', total: 180 },
+  { cliente: 'Miguel', producto: 'Coca', total: 190 }
+]
+cafeteriaUT>
+
+
+--- Ejercicio 3:
+Exportar la colección pedidos:
+
+PS C:\Windows\System32> mkdir C:\respaldos_mongo
+
+    Directorio: C:\
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----       11/11/2026 05:58 p. m.                respaldos_mongo
+
+PS C:\Windows\System32> cd C:\respaldos_mongo
+
+PS C:\Windows\System32> cd C:\respaldos_mongo
+PS C:\respaldos_mongo> docker exec -t mongodb mongoexport -u "admin" -p "Mongo123" --authenticationDatabase "admin" --db cafeteriaUT --collection pedidos --out /tmp/back.json
+2026-11-12T00:01:42.970+0000    connected to: mongodb://localhost/
+2026-11-12T00:01:42.976+0000    exported 5 records
+PS C:\respaldos_mongo>
+
+
+--- EJERCICIO 4:
+Importar 
+
+
+
+
+
+PARTE III:CASAANDRA
+EJERCICIO1:
+INSERT INTO citas(paciente,especialidad,fecha,estado) VALUES("juan","nose",11-11-2026,"estado1")
+INSERT INTO citas(paciente,especialidad,fecha,estado) VALUES("juan2","nose1",11-11-2026,"estado2")
+INSERT INTO citas(paciente,especialidad,fecha,estado) VALUES("juan3","nose2",11-11-2026,"estado3")
+INSERT INTO citas(paciente,especialidad,fecha,estado) VALUES("juan4","nose3",11-11-2026,"estado4")
+INSERT INTO citas(paciente,especialidad,fecha,estado) VALUES("juan5","nose4",11-11-2026,"estado5")
+
+EJERCICIO2:
+SELECT * FROM citas WHERE id_citas = 3;
+
+EJERCICIO3:
+UPDATE citas
+SET estad'
+
+
+
+
+PARTEIV: NEO4J
+
+Ejercicio1:
+MATCH(a:Empleado {clave:1}),(b:Departamento{codigo:1})
+CREATE (a)-[:TRABAJA_EN {cod:1}] ->(b);
+
+MATCH(a:Empleado {clave:2}),(b:Departamento{codigo:1})
+CREATE (a)-[:TRABAJA_EN {cod:1}] ->(b);
+
+MATCH(a:Empleado {clave:3}),(b:Departamento{codigo:2})
+CREATE (a)-[:TRABAJA_EN {cod:1}] ->(b);
+
+MATCH(a:Empleado {clave:4}),(b:Departamento{codigo:2})
+CREATE (a)-[:TRABAJA_EN {cod:1}] ->(b);
+
+
+EJERCICIO2:
+
+MATCH (a:Empleado)-[:TRABAJA_EN]->(b:Departamento)
+RETURN a.nombre AS nombreEmpleado, b.nombredep AS nombreDelDepartamento;
+
+EJERCICIO3:
+
+MATCH (n:Empleado){clave:1})
+SET n.puesto = "jefe"
+RETURN n;
+
+EJERCICIO4
+
+MATCH (a:Empleado {clave:1})-[r:TRABAJA_EN]->(b:Departamento{código:1})
+DELETE r;
+
+
+
+
+
+
+
+
+
+
+
+
+

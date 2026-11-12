@@ -1,0 +1,85 @@
+services:
+  db:
+    image: mysql:8.0
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-TallerDB2}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:?Set MYSQL_ROOT_PASSWORD in .env}
+      MYSQL_USER: ${DB_USER:-taller_api_user}
+      MYSQL_PASSWORD: ${DB_PASSWORD:?Set DB_PASSWORD in .env}
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./server/sql/schema.sql:/docker-entrypoint-initdb.d/01-schema.sql:ro
+      - ./server/sql/workshops.sql:/docker-entrypoint-initdb.d/02-workshops.sql:ro
+      - ./server/sql/vehicles.sql:/docker-entrypoint-initdb.d/03-vehicles.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h 127.0.0.1 -uroot -p\"$$MYSQL_ROOT_PASSWORD\" --silent"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+      start_period: 20s
+    networks:
+      - autohost-network
+
+  backend:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    environment:
+      SPRING_PROFILES_ACTIVE: production
+      PORT: 3000
+      UPLOAD_ROOT: /app/uploads
+      DB_HOST: db
+      DB_PORT: 3306
+      DB_NAME: ${MYSQL_DATABASE:-TallerDB2}
+      DB_USER: ${DB_USER:-taller_api_user}
+      DB_PASSWORD: ${DB_PASSWORD:?Set DB_PASSWORD in .env}
+      DB_CONNECTION_LIMIT: ${DB_CONNECTION_LIMIT:-10}
+      JWT_SECRET: ${JWT_SECRET:?Set JWT_SECRET in .env (32+ chars)}
+      JWT_EXPIRES_IN: ${JWT_EXPIRES_IN:-8h}
+      PASSWORD_PEPPER: ${PASSWORD_PEPPER:?Set PASSWORD_PEPPER in .env}
+      FRONTEND_BASE_URL: ${FRONTEND_BASE_URL:-http://localhost:8080}
+      MAIL_MODE: ${MAIL_MODE:-smtp}
+      EMAIL_FROM: "${EMAIL_FROM:-Gestión de Talleres <no-reply@taller.local>}"
+      ETHEREAL_USER: ${ETHERE_USER:-}
+      ETHEREAL_PASS: ${ETHEREAL_PASS:-}
+      SMTP_HOST: ${SMTP_HOST:-sandbox.smtp.mailtrap.io}
+      SMTP_PORT: ${SMTP_PORT:-2525}
+      SMTP_SECURE: ${SMTP_SECURE:-false}
+      SMTP_USER: ${SMTP_USER:-}
+      SMTP_PASS: ${SMTP_PASS:-}
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "${BACKEND_PORT:-3000}:3000"
+    volumes:
+      - vehicle_uploads:/app/uploads/vehicles
+      - workshop_uploads:/app/uploads/workshops
+      - app_logs:/app/logs
+    networks:
+      - autohost-network
+
+  frontend:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "${FRONTEND_PORT:-8080}:80"
+    networks:
+      - autohost-network
+
+volumes:
+  mysql_data:
+  vehicle_uploads:
+  workshop_uploads:
+  app_logs:
+
+networks:
+  autohost-network:
+    name: autohost-network
+    driver: bridge

@@ -1,0 +1,15 @@
+<div class="page-kicker">FLOTA</div><h1 class="page-title">Registrar vehículo</h1><p class="page-subtitle">Captura los datos de identificación, configuración y fotografías.</p>
+<form id="vehicleCreateForm" class="vehicle-form" enctype="multipart/form-data">
+  <section class="panel vehicle-form-panel"><div class="panel-heading"><div><h2>Identificación del vehículo</h2><p>VIN y placa son únicos y se guardan normalizados en minúsculas.</p></div><span class="vehicle-status-badge"><i></i> ACTIVO</span></div>
+    <div class="vehicle-fields">
+      <label>VIN *<input name="VIN" maxlength="17" minlength="17" pattern="[a-hj-npr-z0-9]{17}" title="17 caracteres; no se permiten I, O o Q" autocomplete="off" required><small>17 caracteres; no se permiten las letras I, O o Q.</small></label>
+      <label>Placa *<input name="Placa" maxlength="8" pattern="([a-z]{3}[0-9]{4}|[a-z]{2}[0-9]{4}[a-z]|[a-z]{3}[0-9]{3}[a-z])" title="Ejemplos: ABC1234, AB123CD o ABC123D" autocomplete="off" required><small>Ejemplos: ABC1234, AB123CD o ABC123D.</small></label>
+      <label>Marca *<input name="Marca" maxlength="80" required></label><label>Modelo *<input name="Modelo" maxlength="80" required></label>
+      <label>Año *<input name="Anio" type="number" min="1886" max="2027" inputmode="numeric" required></label><label>Versión *<input name="Version" maxlength="100" required></label>
+      <label>Color *<input name="Color" maxlength="50" required></label><label>Estatus *<select name="Estatus" required><option value="activo">Activo</option><option value="en_taller">En taller</option></select></label>
+      <label class="vehicle-full-width">Técnico mecánico <span>(opcional)</span><select name="MecanicoId"><option value="">Sin asignar</option></select></label>
+      <label class="vehicle-full-width">Fotografías <span>(opcional; hasta 10 archivos, 15 MB cada uno)</span><input name="fotos" type="file" accept="image/jpeg,image/png,image/webp" multiple><small>Formatos JPG, PNG o WEBP.</small></label>
+    </div>
+    <div class="vehicle-form-actions"><span>* Campos obligatorios.</span><button class="primary-btn" id="vehicleCreateSubmit" type="submit">Registrar vehículo</button></div>
+  </section>
+</form>

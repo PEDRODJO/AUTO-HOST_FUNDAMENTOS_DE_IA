@@ -1,0 +1,8 @@
+node_modules
+target
+.env
+.env.*
+logs
+uploads
+sepomex.json
+*.log

@@ -1,0 +1,428 @@
+{"at":"2026-10-09T19:42:03.343Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-09T19:51:09.340Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-10T23:35:25.220Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-10T23:37:31.232Z","level":"info","message":"Successful login","userId":"24588654-A931-4C81-AA07-C205E23F53CC"}
+{"at":"2026-10-11T01:46:00.578Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T01:47:16.617Z","level":"info","message":"Successful login","userId":"10ae078c-c515-11f1-ba41-1cce5193461f"}
+{"at":"2026-10-11T02:00:24.506Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T02:00:51.260Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T02:01:56.228Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T02:02:13.186Z","level":"info","message":"Successful login","userId":"10ae078c-c515-11f1-ba41-1cce5193461f"}
+{"at":"2026-10-11T02:05:23.437Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T02:05:24.906Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T02:05:26.359Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T02:05:26.566Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:26.758Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:26.949Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:27.125Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:27.323Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:27.531Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:27.720Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:27.895Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:28.068Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:28.241Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:28.409Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:28.610Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:28.800Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:28.998Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:29.196Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:29.394Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:29.588Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:29.765Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:29.956Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:30.156Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:30.351Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:30.538Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:30.724Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:30.914Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:31.118Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:31.341Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:31.563Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:31.759Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:31.958Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:32.170Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:32.337Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:32.569Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:32.762Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:32.937Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:33.104Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:33.307Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:33.512Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:33.708Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:33.886Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:34.071Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:34.284Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:34.465Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:34.650Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:34.850Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:35.045Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:35.253Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:35.448Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:35.646Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:35.852Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:36.092Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:36.298Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:36.518Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:36.760Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:36.990Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:37.170Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:37.373Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:37.552Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:37.734Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:37.942Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:38.151Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:38.353Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:38.531Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:38.722Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:38.905Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:39.083Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:39.284Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:39.490Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:39.668Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:39.838Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:40.031Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:40.241Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:40.457Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:40.619Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:40.825Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:41.005Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:41.198Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:41.393Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:41.599Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:41.774Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:41.974Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:42.158Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:42.356Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:42.540Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:42.726Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:42.898Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:43.095Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:43.303Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:43.467Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:43.672Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:43.913Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:44.081Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:44.293Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:44.510Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:44.752Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:44.995Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:45.243Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:45.418Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:45.644Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:45.878Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:46.090Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:46.290Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:46.461Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:46.661Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:46.864Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:47.113Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:47.315Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:47.522Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:47.716Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:47.920Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:48.097Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:48.342Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:48.563Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:48.755Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:48.973Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:49.196Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:49.435Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:49.629Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:49.792Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:50.000Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:50.180Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:50.362Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:50.612Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:50.782Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:50.960Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:51.189Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:51.379Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:51.565Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:51.734Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:51.909Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:52.126Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:52.300Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:52.474Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:52.677Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:52.895Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:53.075Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:53.233Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:53.410Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:53.597Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:53.853Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:54.061Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:54.257Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:54.434Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:54.635Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:54.820Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:55.017Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:55.206Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:55.418Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:55.591Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:55.812Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:56.024Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:56.212Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:56.416Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:56.641Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:56.837Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:57.033Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:57.234Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:57.445Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:57.618Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:57.795Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:57.976Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:58.166Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:58.355Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:58.555Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:58.740Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:58.926Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:59.095Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:59.285Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:59.482Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:59.680Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:05:59.882Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:00.104Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:00.277Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:00.457Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:00.658Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:00.883Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:01.074Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:01.270Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:01.458Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:01.662Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:01.876Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:02.058Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:02.242Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:02.426Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:02.628Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:02.834Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:03.020Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:03.211Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:03.417Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:03.623Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:03.810Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:04.005Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:04.204Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:04.392Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:04.580Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:04.803Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:04.978Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:05.182Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:05.385Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:05.578Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:05.786Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:06.007Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:06.183Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:06.370Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:06.559Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:06.762Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:06.952Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:07.157Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:07.340Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:07.517Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:07.704Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:07.898Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:08.083Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:08.290Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:08.456Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:08.669Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:08.839Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:09.043Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:09.204Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:09.435Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:09.654Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:09.840Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:10.038Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:10.257Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:10.434Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:10.618Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:10.786Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:10.970Z","level":"error","message":"Unknown column 'Nombre' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:11.227Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:11.405Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:11.591Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:11.771Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:11.942Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:12.136Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:12.308Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:12.537Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:12.774Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:12.994Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T02:06:13.706Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T02:06:39.917Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T02:07:50.008Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T04:30:09.556Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T04:30:47.269Z","level":"info","message":"Successful login","userId":"10ae078c-c515-11f1-ba41-1cce5193461f"}
+{"at":"2026-10-11T04:30:47.315Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:30:47.457Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:30:47.647Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:30:58.234Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:30:58.441Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:30:58.646Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:30:58.816Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:30:59.000Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:30:59.187Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:30:59.358Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:30:59.529Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:30:59.737Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:30:59.912Z","level":"error","message":"Unknown column 'IsActive' in 'where clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:41:37.618Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T04:41:54.865Z","level":"info","message":"Successful login","userId":"10ae078c-c515-11f1-ba41-1cce5193461f"}
+{"at":"2026-10-11T04:54:40.150Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T04:54:44.470Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T04:55:27.012Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T04:55:28.525Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T04:55:28.842Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:29.855Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T04:55:30.116Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:30.386Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:30.637Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:30.863Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:31.122Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:31.368Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:31.648Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:31.925Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:32.185Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:32.432Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:32.699Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:33.017Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:33.260Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:33.520Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:33.715Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:33.919Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:34.117Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:34.307Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:34.501Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:34.704Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:34.906Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:35.094Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:35.297Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:35.495Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:35.705Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:35.906Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:36.095Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:36.293Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:36.475Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:36.696Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:36.876Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:37.080Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:37.305Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:37.533Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:37.783Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:38.023Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:38.263Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:38.475Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:38.704Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:38.931Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:39.148Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:39.381Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:39.642Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:39.879Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:40.091Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:40.360Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:40.632Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:40.854Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:41.063Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:41.332Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:41.558Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:41.852Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:42.087Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:42.358Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T04:55:42.631Z","level":"error","message":"Unknown column 'IsActive' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:52:23.899Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T15:53:11.211Z","level":"error","message":"Unknown column 'r.IsActive' in 'on clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:53:12.460Z","level":"error","message":"Unknown column 'r.IsActive' in 'on clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:53:13.423Z","level":"error","message":"Unknown column 'r.IsActive' in 'on clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:53:15.342Z","level":"error","message":"Unknown column 'r.IsActive' in 'on clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:53:16.667Z","level":"error","message":"Unknown column 'r.IsActive' in 'on clause'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:36.787Z","level":"info","message":"Successful login","userId":"10ae078c-c515-11f1-ba41-1cce5193461f"}
+{"at":"2026-10-11T15:55:36.857Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:37.170Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:37.441Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:37.775Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:38.103Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:38.391Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:38.729Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:38.958Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:39.181Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:39.430Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:39.632Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:39.917Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:40.228Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:40.479Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:55:40.661Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:04.413Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T15:56:04.686Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:04.991Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:05.250Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:05.508Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:05.790Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:06.033Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:06.271Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:06.532Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:06.782Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:07.023Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:07.284Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:07.584Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:07.837Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:08.099Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:08.364Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:08.660Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:09.022Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:09.270Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:09.484Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:09.695Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:09.896Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:10.306Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:10.530Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:10.802Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:11.033Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:11.262Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:11.483Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:11.684Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:11.918Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:12.125Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:12.439Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:12.696Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:12.975Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:13.228Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:13.509Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:13.716Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:13.934Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:14.153Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:14.352Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:14.582Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:14.788Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:15.019Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:15.213Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:15.451Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:15.656Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:15.848Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:16.045Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:16.252Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:16.484Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:16.701Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:16.927Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:17.140Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:42.287Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:42.521Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:42.728Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:42.945Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:43.170Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:43.361Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:43.571Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:56:43.765Z","level":"error","message":"Unknown column 'UpdatedAt' in 'field list'","code":"ER_BAD_FIELD_ERROR"}
+{"at":"2026-10-11T15:58:03.153Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-11T15:58:47.341Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-12T02:42:09.148Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-12T02:42:37.999Z","level":"info","message":"Successful login","userId":"10ae078c-c515-11f1-ba41-1cce5193461f"}
+{"at":"2026-10-12T02:49:37.571Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-12T02:49:39.057Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-12T02:54:47.624Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-12T02:54:57.525Z","level":"info","message":"Successful login","userId":"10ae078c-c515-11f1-ba41-1cce5193461f"}
+{"at":"2026-10-12T02:56:29.191Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-12T02:59:08.233Z","level":"info","message":"Successful login","userId":"10ae078c-c515-11f1-ba41-1cce5193461f"}
+{"at":"2026-10-12T03:45:32.025Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-28T16:52:57.957Z","level":"info","message":"Server listening on 3000"}
+{"at":"2026-10-28T16:53:14.229Z","level":"info","message":"Successful login","userId":"10ae078c-c515-11f1-ba41-1cce5193461f"}
+{"at":"2026-10-28T16:54:53.320Z","level":"info","message":"Server listening on 3000"}

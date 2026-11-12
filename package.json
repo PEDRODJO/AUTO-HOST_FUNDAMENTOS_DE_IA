@@ -1,0 +1,12 @@
+{
+  "name": "taller-admin",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "docker compose up --build",
+    "dev": "npm --prefix client run dev",
+    "dev:server": "mvn -f server/pom.xml spring-boot:run",
+    "build": "npm --prefix client run build",
+    "preview": "npm --prefix client run preview"
+  }
+}

@@ -1,0 +1,28 @@
+<div class="page-kicker">DIRECTORIO</div>
+<div class="page-heading workshops-list-heading">
+  <div><h1 class="page-title">Administrar talleres</h1><p class="page-subtitle">Consulta, actualiza y desactiva talleres registrados.</p></div>
+</div>
+<section class="panel workshops-list-panel">
+  <div class="panel-heading"><div><h2>Talleres registrados</h2><p>Los registros inactivos se conservan para mantener la integridad de sus relaciones.</p></div><span class="subtle-tag" id="workshopsTotal">— talleres</span></div>
+  <div class="table-wrap"><table class="table workshops-table"><thead><tr><th>TALLER</th><th>RFC</th><th>CORREO</th><th>UBICACIÓN</th><th>ESTADO</th><th>ACCIONES</th></tr></thead><tbody id="workshopsRows"><tr><td colspan="6" class="workshops-loading">Cargando talleres…</td></tr></tbody></table></div>
+  <div class="workshops-pagination"><span id="workshopsPageInfo">Página 1</span><div><button type="button" id="workshopsPrev">Anterior</button><button type="button" id="workshopsNext">Siguiente</button></div></div>
+</section>
+<dialog id="workshopEditDialog" class="workshop-dialog">
+  <div class="workshop-dialog-header"><div><span class="page-kicker">ACTUALIZACIÓN</span><h2>Editar taller</h2></div><button type="button" class="workshop-close" id="workshopClose" aria-label="Cerrar">×</button></div>
+  <form id="workshopEditForm" class="workshop-edit-form" enctype="multipart/form-data">
+    <input type="hidden" name="id">
+    <div class="workshop-edit-grid">
+      <label>Nombre del taller<input name="nombre" required maxlength="160"></label>
+      <label>RFC<input name="rfc" required minlength="12" maxlength="13" pattern="[A-Za-zÑñ&amp;]{3,4}[0-9]{2}(0[1-9]|1[0-2])(0[1-9]|[12][0-9]|3[01])[A-Za-z0-9]{3}" title="Formato mexicano: 3 o 4 letras, fecha válida YYMMDD y homoclave de 3 caracteres"></label>
+      <label>Correo electrónico<input name="email" type="email" required maxlength="254"></label>
+      <label>Calle<input name="calle" required maxlength="160"></label>
+      <label>Número<input name="numero" required maxlength="30"></label>
+      <label>Colonia<input name="colonia" required maxlength="120"></label>
+      <label>Código Postal<input name="codigo_postal" required inputmode="numeric" pattern="[0-9]{5}" maxlength="5"></label>
+      <label>Estado<input name="estado" required maxlength="100"></label>
+      <label>Municipio<input name="municipio" required maxlength="120"></label>
+      <label class="workshop-photo-field">Fotografía nueva <span>(opcional, máximo 15 MB)</span><input name="fotografia" type="file" accept="image/jpeg,image/png,image/webp"></label>
+    </div>
+    <div class="workshop-edit-actions"><span>El estatus se conserva como activo.</span><button type="button" class="workshop-cancel" id="workshopCancel">Cancelar</button><button type="submit" class="primary-btn" id="workshopSave">Guardar cambios</button></div>
+  </form>
+</dialog>
